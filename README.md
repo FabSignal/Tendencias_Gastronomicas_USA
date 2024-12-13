@@ -108,7 +108,7 @@ Este proyecto apunta a revolucionar la experiencia gastronómica de los millenni
 
 <h2 align='center'> Algorithmia </h2>
 
-<img align='center' src="Imagen/Logo algorithmia.png" alt="logo_algotithmia" title="logo algotithmia">
+<img src="Imagen/Logo algorithmia.png" alt="logo_algotithmia" title="logo algotithmia" align='center'>
 
 <h2 align='center'> 👤 Contacto </h2>
 <p>Para dudas o más información, contacta a:</p>
