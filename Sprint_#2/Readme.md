@@ -1,4 +1,4 @@
 <p align="center">
-<img src="imagenes/Banner_2.png" width="831" height="372""  >
+<img src="imagenes/Banner_2.png" width="996" height="446""  >
 </p>
 
