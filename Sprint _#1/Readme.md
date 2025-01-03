@@ -1,5 +1,5 @@
 <p align="center">
-<img src="imagenes/banner_1.jpg" width="996" height="500""  >
+<img src="imagenes/Banner_1.jpg" width="996" height="601.62""  >
 </p>
 
 <h2 align='center'>💡 contexto</h2>
