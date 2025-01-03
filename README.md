@@ -19,9 +19,9 @@ Este proyecto apunta a revolucionar la experiencia gastronómica de los millenni
 
 <h2 align='center'> 📅 Roadmap </h2>
 <ol>
-    <li> - 1° Etapa del proyecto [Sprint_1](https://github.com/Dai-S2/Tendencias_Gastronomicas_USA//tree/main/Sprint%20_%231).</li>
-    <li> - 2° Etapa del proyecto [Sprint_1](https://github.com/Dai-S2/Tendencias_Gastronomicas_USA//tree/main/Sprint%20_%232).</li>
-    <li> - 3° Etapa del proyecto [Sprint_1](https://github.com/Dai-S2/Tendencias_Gastronomicas_USA//tree/main/Sprint%20_%233).</li>
+    <li> - 1° Etapa del proyecto [Sprint_1](https://github.com/Dai-S2/Tendencias_Gastronomicas_USA/tree/main/Sprint%20_%231).</li>
+    <li> - 2° Etapa del proyecto [Sprint_1](https://github.com/Dai-S2/Tendencias_Gastronomicas_USA/tree/main/Sprint%20_%232).</li>
+    <li> - 3° Etapa del proyecto [Sprint_1](https://github.com/Dai-S2/Tendencias_Gastronomicas_USA/tree/main/Sprint%20_%233).</li>
 </ol>
 
 
