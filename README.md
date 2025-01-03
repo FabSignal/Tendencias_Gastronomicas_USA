@@ -19,12 +19,9 @@ Este proyecto apunta a revolucionar la experiencia gastronómica de los millenni
 
 <h2 align='center'> 📅 Roadmap </h2>
 <ol>
-    <li> Sprint 1: EDA, limpieza de datos y diseño de KPIs. 
-    Diseño de modelos (predicción, clustering, análisis de sentimientos).</li>
-    <li> Sprint 2: Implementación de modelos (predicción, clustering, análisis de sentimientos).</li>
-    <li> Sprint 3: Validación de resultados y construcción de dashboards interactivos.
-    Implementación de los  modelos definidos.
-    Presentación de recomendaciones finales.</li>
+    <li> - 1° Etapa del proyecto [Sprint_1](https://github.com/Dai-S2/Tendencias_Gastronomicas_USA//tree/main/Sprint%20_%231).</li>
+    <li> - 2° Etapa del proyecto [Sprint_1](https://github.com/Dai-S2/Tendencias_Gastronomicas_USA//tree/main/Sprint%20_%232).</li>
+    <li> - 3° Etapa del proyecto [Sprint_1](https://github.com/Dai-S2/Tendencias_Gastronomicas_USA//tree/main/Sprint%20_%233).</li>
 </ol>
 
 
