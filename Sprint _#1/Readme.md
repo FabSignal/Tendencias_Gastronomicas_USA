@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="Imagenes_1/banner_1.png" width="996" height="315""  >
+</p>
 
 
 <h2 align='center'>💡 Palabras clave</h2>
