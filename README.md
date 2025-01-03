@@ -59,11 +59,14 @@ Este proyecto apunta a revolucionar la experiencia gastronómica de los millenni
 
 
 
-<h1 align='center'>🤔¿Quiénes somos? </h1>
+<h1 align="center" style="margin-bottom: 0;">🤔 ¿Quiénes somos?</h1>
 
-<h2 align='center'> Algorithmia </h2>
+<h2 align="center" style="margin-top: 0;">Algorithmia</h2>
 
-<img src="Imagen/Logo algorithmia.png" alt="logo_algotithmia" title="logo algotithmia" align='center'>
+<p align="center">
+  <img src="Imagen/Logo algorithmia.png" alt="logo_algorithmia" title="logo_algorithmia">
+</p>
+
 
 <h2 align='center'> 👤 Contacto </h2>
 <p>Para dudas o más información, contacta a:</p>
