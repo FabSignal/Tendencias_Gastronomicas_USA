@@ -2,15 +2,10 @@
 <img src="imagenes/banner_1.jpg" width="996" height="500""  >
 </p>
 
+<h2 align='center'>💡 contexto</h2>
 
-<h2 align='center'>💡 Palabras clave</h2>
-<ul>
-<li> Inteligencia de Datos, Análisis Predictivo, Machine Learning</li>
-<li> Tendencias Culinarias, Comida Experiencial, Delivery Inteligente</li>
-<li> Categorías Emergentes, Diversidad Gastronómica</li>
-<li> ROI Geográfico, Mercados Estratégicos</li>
-</ul>
 
+<h2 align='center'>🤝 propuesta de trabajo</h2>
 
 <h2 align='center'> 📊 KPIs Clave</h2>
 <ol>
@@ -50,3 +45,13 @@
     <li> Modelo: Filtrado colaborativo (Matrix Factorization).</li>
 </ul>
 </ol>
+
+
+<h2 align='center'> 🛠️ tecnologias empleadas</h2>
+
+
+
+
+
+
+
