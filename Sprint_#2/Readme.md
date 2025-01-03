@@ -3,19 +3,25 @@
 </p>
 
 <h2 align='center'> 🔄  Proceso ETL</h2>
-- ETL
-- Validación de datos
+<ul>
+   <li> ETL
+   <li> Validación de datos
+<ul>
+
 
 
 <h2 align='center'> 🏗️ Estructura de datos</h2>
-completar con:
-- Estructura de datos implementada (DW, DL, etc). describir los servicios utilizados y como se implemento
-- Pipelines para alimentar el DW
-- Data Warehouse
+<ul>
+  <li> Estructura de datos implementada (DW, DL, etc). describir los servicios utilizados y como se implemento
+  <li> Pipelines para alimentar el DW
+  <li> Data Warehouse
+<ul>
 
 
 <h2 align='center'> 🔄 Automatización</h2>
-- Pipeline ETL automatizado
+<ul>
+  <li> Pipeline ETL automatizado
+<ul>
 
 
 <h2 align='center'> 🧩 Diagrama Entidad-Relación</h2>
