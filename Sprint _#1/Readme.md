@@ -17,41 +17,27 @@
 <li>Sentimiento Promedio Ponderado: Evaluar la percepción emocional de los clientes por categoría.</li>
 </ol>
 
-<h2 align='center'> 🧠 Modelos Implementados</h2>
-<ol>
-<li> Predicción de Calificaciones por Ubicación </li>
-    <ul>
-    <li> Objetivo: Predecir el éxito potencial de un restaurante basado en su ubicación y categoría.</li>
-    <li> Modelo: Regresión supervisada (Random Forest, Gradient Boosting).</li>
-    </ul>
-<li> Clustering de Mercados</li>
-    <ul>
-    <li> Objetivo: Agrupar regiones en segmentos homogéneos según características del mercado.</li>
-    <li> Modelo: K-Means, DBSCAN.</li>
-    </ul>
-<li> Análisis de Sentimientos</li>
-    <ul>
-    <li> Objetivo: Identificar preferencias y opiniones a partir de reseñas.</li>
-    <li> Modelo: NLP supervisado (BERT, Logistic Regression).</li>
-    </ul>
-<li> Detección de Categorías Emergentes</li>
-    <ul>
-    <li> Objetivo: Prever el crecimiento o declive de categorías de comida.</li>
-    <li> Modelo: Series Temporales (ARIMA, Prophet).</li>
-    </ul>
-<li> Sistema de Recomendación</li>
-<ul>
-    <li> Objetivo: Sugerir restaurantes o categorías a usuarios basados en sus preferencias.</li>
-    <li> Modelo: Filtrado colaborativo (Matrix Factorization).</li>
-</ul>
-</ol>
+
 
 
 <h2 align='center'> 🛠️ tecnologias empleadas</h2>
+    <ul>
+        <li> Lenguajes y Librerías</li>
+            <ul>
+                <li> Python: pandas, numpy, sklearn, nltk, spaCy, matplotlib, seaborn.</li>
+                <li> Geopandas y Folium: Análisis y visualización geoespacial.</li>
+                <li> TensorFlow / PyTorch: Modelos avanzados de Machine Learning.</li>
+            </ul>
+        <li> Infraestructura</li>
+            <ul>
+                <li> Aws: Almacenamiento y procesamiento de datos en la nube.</li>
+            </ul>
+        <li> Visualización</li>
+            <ul>
+                <li> QuickSight: Dashboards interactivos para seguimiento de KPIs.</li>
+            </ul>
+    </ul>
 
 
-
-
-
-
+<h2 align='center'>  📆  cronograma</h2>
 
