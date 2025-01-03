@@ -6,10 +6,10 @@
 
 <ul>
    
-   <li> ETL
-   <li> Validación de datos
+   <li> ETL</li>
+   <li> Validación de datos</li>
       
-<ul>
+</ul>
 
 
 
@@ -18,20 +18,20 @@
 
 <ul>
    
-  <li> Estructura de datos implementada (DW, DL, etc). describir los servicios utilizados y como se implemento
-  <li> Pipelines para alimentar el DW
-  <li> Data Warehouse
+  <li> Estructura de datos implementada (DW, DL, etc). describir los servicios utilizados y como se implemento</li>
+  <li> Pipelines para alimentar el DW</li>
+  <li> Data Warehouse</li>
      
-<ul>
+</ul>
 
 
 <h2 align='center'> 🔄 Automatización</h2>
 
 <ul>
    
-  <li> Pipeline ETL automatizado
+  <li> Pipeline ETL automatizado</li>
      
-<ul>
+</ul>
 
 
 
